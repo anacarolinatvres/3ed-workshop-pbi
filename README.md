@@ -7,6 +7,6 @@ Se deseja interagir com o relatório é só clicar neste [Link](https://app.powe
 ![](https://github.com/anacarolinatvres/3ed-workshop-pbi/blob/master/imagens/despesas_receitas.png)
 
 ### Relatório de Vendas x Meta
-Se deseja ingteragir com o relatório é só clica neste[Link](https://app.powerbi.com/view?r=eyJrIjoiNGQ1NWI4ZjEtZTc1Zi00ODkyLThiNjQtOTdlYmU1NDliY2I1IiwidCI6ImY4NWYzNjgwLTUwMTMtNGE0OS04Yjc5LTA4NTQyNWRkOTVlZCJ9)
+Se deseja ingteragir com o relatório é só clica neste [Link](https://app.powerbi.com/view?r=eyJrIjoiNGQ1NWI4ZjEtZTc1Zi00ODkyLThiNjQtOTdlYmU1NDliY2I1IiwidCI6ImY4NWYzNjgwLTUwMTMtNGE0OS04Yjc5LTA4NTQyNWRkOTVlZCJ9)
 
 ![](https://github.com/anacarolinatvres/3ed-workshop-pbi/blob/master/imagens/vendas_meta.png)
